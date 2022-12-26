@@ -133,7 +133,7 @@
 
 .one select {
     margin-top: 80px;
-    background-color: #00ccb1;
+    background: transparent;
     color: white;
     border: none;
     font-size: 20px;
@@ -176,7 +176,7 @@
 
 .two #select0 {
     margin-top: 80px;
-    background-color: #3d83df;
+    background: transparent;
     color: white;
     border: none;
     font-size: 20px;
@@ -213,7 +213,7 @@
 
 .three .select1>* {
     margin-top: 35px;
-    background-color: #1b2734;
+    background: transparent;
     color: white;
     border: none;
     font-size: 20px;
